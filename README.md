@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8064792b-c6f6-4ed3-9799-e2cd036fc8d1)
+
 🧠 JournalApplication (Backend - Spring Boot)
 A backend-only journal application built using Spring Boot, offering secure journaling with JWT + OAuth authentication, sentiment-driven mail alerts, Kafka messaging, and role-based access control — all persisted in MongoDB.
 
